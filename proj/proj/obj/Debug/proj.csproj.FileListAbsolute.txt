@@ -1,0 +1,5 @@
+C:\Users\manal_000\Documents\SharpDevelop Projects\proj\proj\obj\Debug\proj.csprojResolveAssemblyReference.cache
+C:\Users\manal_000\Documents\SharpDevelop Projects\proj\proj\bin\Debug\proj.exe
+C:\Users\manal_000\Documents\SharpDevelop Projects\proj\proj\bin\Debug\proj.pdb
+C:\Users\manal_000\Documents\SharpDevelop Projects\proj\proj\obj\Debug\proj.exe
+C:\Users\manal_000\Documents\SharpDevelop Projects\proj\proj\obj\Debug\proj.pdb
